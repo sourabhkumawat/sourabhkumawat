@@ -59,7 +59,7 @@ Leading engineering strategy and team development at AtTheRate.ai, an AI-powered
 
 **Associate Software Engineer Trainee** | Jul 2019 – Jan 2020 · 7 mos | Madhya Pradesh, India
 
-**Salesforce Developer Intern** | May 2019 – Jul 2019 · 3 mos | Madhya Pradesh, India
+**Salesforce Developer Intern** | May 2018 – Jul 2019 · 3 mos | Madhya Pradesh, India
 
 ---
 
