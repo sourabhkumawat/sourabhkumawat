@@ -55,11 +55,11 @@ Leading engineering strategy and team development at AtTheRate.ai, an AI-powered
 
 ### Techcoopers · 1 yr 10 mos
 
-**Associate Software Engineer** | Jan 2020 – Feb 2021 · 1 yr 2 mos | Indore, India
+**Associate Software Engineer** | Jan 2019 – Feb 2021 · 1 yr 2 mos | Indore, India
 
-**Associate Software Engineer Trainee** | Jul 2019 – Jan 2020 · 7 mos | Madhya Pradesh, India
+**Associate Software Engineer Trainee** | Jul 2018 – Jan 2019 · 7 mos | Madhya Pradesh, India
 
-**Salesforce Developer Intern** | May 2018 – Jul 2019 · 3 mos | Madhya Pradesh, India
+**Salesforce Developer Intern** | May 2018 – Jul 2018 · 3 mos | Madhya Pradesh, India
 
 ---
 
